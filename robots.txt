@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /admin/
+Sitemap: https://carecure24.com/sitemap.xml
